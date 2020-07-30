@@ -1,0 +1,41 @@
+body{
+	background-color: #00ffff;
+	
+}
+header{
+	background-color: white;
+	padding: 50px 50px 50px;
+	height: 150px; 
+
+}
+h2{
+	font-family: 'Press Start 2P', cursive;
+	font-size: 70px;
+	text-align: center; 
+	color: black;
+}
+main {
+	font-size: 30px;
+	margin: 25px 0 450px;
+	font-style: 'Helvetica', 'Arial', sans-serif;
+	text-align:center;
+}
+main a{
+	color: red;
+}
+main a:hover{
+	color: purple;
+}
+footer{
+	position: bottom;
+	text-align: center;
+}
+footer p{
+	margin: 0;
+}
+footer a{
+	color: red;
+}
+footer a:hover{
+	color: purple;
+}
