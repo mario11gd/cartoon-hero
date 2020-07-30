@@ -27,7 +27,6 @@ main a:hover{
 	color: purple;
 }
 footer{
-	position: bottom;
 	text-align: center;
 }
 footer p{
@@ -38,4 +37,7 @@ footer a{
 }
 footer a:hover{
 	color: purple;
+}
+.footer{
+	object-position: bottom;
 }
