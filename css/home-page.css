@@ -26,18 +26,3 @@ main a{
 main a:hover{
 	color: purple;
 }
-footer{
-	text-align: center;
-}
-footer p{
-	margin: 0;
-}
-footer a{
-	color: red;
-}
-footer a:hover{
-	color: purple;
-}
-.footer{
-	object-position: bottom;
-}
